@@ -1,6 +1,7 @@
 # Premier-League-Football-Prediction
 MSc Project
 
+This Jupyter Notebook demonstrates the use of a Long Short-Term Memory (LSTM) recurrent neural network and a Random Forest Classifier to predict the outcome (win, lose, or draw) of English Premier League (EPL) football matches.  The model leverages historical match data and engineered features to make predictions, specifically focusing on capturing temporal dependencies in team performance.
 Data and Preprocessing
 
 The notebook begins by loading a dataset containing EPL match results.  The dataset includes features such as:
